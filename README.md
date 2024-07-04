@@ -23,7 +23,9 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from  Pakistan🇵🇰.
-- 🏫: I’m currently enrolled in 8th Semester of BSCS.
+- 🏢: I'm currently working in GenITeam (Pakistan) as a Game Develoer.
+
+- 🏫: I have a degree in BSCS.
 
 - 🌱: Exploring Technical Content Writing.
 
