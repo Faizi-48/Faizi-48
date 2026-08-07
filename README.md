@@ -58,4 +58,4 @@ I am a Full Stack Game Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Faizi-48)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Faizi-48&layout=donut&langs_count=4&hide_values=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=Faizi-48&layout=donut&langs_count=4&hide_values=true&theme=ambient_gradient)
